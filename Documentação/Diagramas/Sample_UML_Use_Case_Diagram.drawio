@@ -1,9 +1,24 @@
-<mxfile host="app.diagrams.net" modified="2023-09-28T17:38:52.534Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36 Edg/117.0.2045.43" etag="PDp3a-hd2EksPjN4aiSZ" version="21.7.4" type="github">
+<mxfile host="app.diagrams.net" modified="2023-09-30T17:28:30.568Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36 Edg/117.0.2045.43" etag="iNsbjC3XbIN2MmV8qPHd" version="22.0.0" type="github">
   <diagram name="Página-1" id="7PEwG1WY2FLOrSVksg2T">
-    <mxGraphModel dx="1386" dy="831" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1155" dy="693" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="aEVpYZM67eEgY-ULNLCZ-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="aEVpYZM67eEgY-ULNLCZ-1" target="aEVpYZM67eEgY-ULNLCZ-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="aEVpYZM67eEgY-ULNLCZ-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="aEVpYZM67eEgY-ULNLCZ-1" target="aEVpYZM67eEgY-ULNLCZ-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="aEVpYZM67eEgY-ULNLCZ-1" value="User" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" vertex="1" parent="1">
+          <mxGeometry x="220" y="320" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="aEVpYZM67eEgY-ULNLCZ-7" value="Logar na Web" style="whiteSpace=wrap;html=1;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="385" y="300" width="95" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="aEVpYZM67eEgY-ULNLCZ-10" value="Ver preço do combustivel" style="whiteSpace=wrap;html=1;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="390" y="360" width="90" height="40" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
